@@ -11,10 +11,8 @@ slidecount: true
 
 ## [fit] Cryptography for Bitcoin/Ethereum
 
-![inline 30%](images/bitcoin.png)
-![inline](images/ethereum.png)
 
-<br><br><br>
+<br><br><br><br><br><br><br><br>
 
 陈建明 (@ashchan)
 2017-05-21 @ 亿咖啡
